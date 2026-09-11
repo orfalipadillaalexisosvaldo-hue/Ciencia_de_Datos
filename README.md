@@ -50,7 +50,7 @@ Me especializo en el desarrollo de **modelos de trading cuantitativo** y **anál
 ## 🚀 Proyectos Destacados
 
 ### 📈 [Ciencia de Datos](https://github.com/orfalipadillaalexisosvaldo-hue/Ciencia_de_Datos)
-Repositorio principal donde documento mis proyectos de análisis de datos, modelos estadísticos y experimentos con datos financieros.
+Repositorio principal donde documento mis proyectos de análisis de datos, modelos estadísticos y experimentos con datos financieros. Incluye la prueba de la carrera seleccionada como ejemplo de mis habilidades.
 
 ### 📉 [Próximamente] Modelos de Trading Cuantitativo
 Espacio reservado para mis estrategias de trading basadas en datos, backtesting y automatización.
@@ -71,8 +71,15 @@ Espacio reservado para mis estrategias de trading basadas en datos, backtesting 
 
 - **GitHub:** [github.com/orfalipadillaalexisosvaldo-hue](https://github.com/orfalipadillaalexisosvaldo-hue)
 - **LinkedIn:** [linkedin.com/in/alexis-orfali-padilla-16295596](https://www.linkedin.com/in/alexis-orfali-padilla-16295596/)
+- **Correo:** [orfalipadillaalexisosvaldo@gmail.com](mailto:orfalipadillaalexisosvaldo@gmail.com)
 
 > Si te interesa el trading cuantitativo, la ciencia de datos aplicada a mercados financieros o simplemente quieres conversar sobre estos temas, **no dudes en contactarme**.
+
+---
+
+<p align="center">
+  <i>"Los datos no mienten, pero hay que saber escucharlos."</i> — Alexis Orfali
+</p>estos temas, **no dudes en contactarme**.
 
 ---
 
