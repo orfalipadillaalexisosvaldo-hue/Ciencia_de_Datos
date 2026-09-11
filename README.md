@@ -5,8 +5,8 @@
   <a href="https://github.com/orfalipadillaalexisosvaldo-hue/Ciencia_de_Datos">
     <img src="https://img.shields.io/badge/GitHub-Portafolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portafolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/[TU_LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/alexis-orfali-padilla-16295596/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexis_Orfali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -70,8 +70,7 @@ Espacio reservado para mis estrategias de trading basadas en datos, backtesting 
 ## 📫 ¿Cómo contactarme?
 
 - **GitHub:** [github.com/orfalipadillaalexisosvaldo-hue](https://github.com/orfalipadillaalexisosvaldo-hue)
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/[TU_LINKEDIN])
-- **Correo:** [tu-correo@email.com](mailto:tu-correo@email.com)
+- **LinkedIn:** [linkedin.com/in/alexis-orfali-padilla-16295596](https://www.linkedin.com/in/alexis-orfali-padilla-16295596/)
 
 > Si te interesa el trading cuantitativo, la ciencia de datos aplicada a mercados financieros o simplemente quieres conversar sobre estos temas, **no dudes en contactarme**.
 
